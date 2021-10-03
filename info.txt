@@ -1,4 +1,8 @@
 hello welcome
 to javahomecloud
 it is good to learn
+<<<<<<< HEAD
 please subscribe
+=======
+please suscribe
+>>>>>>> bb13f4f465960af263612093f1a7eda3386efb49
